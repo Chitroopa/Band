@@ -1,8 +1,18 @@
 .float
 {
   float:right;
+  background-color: yellow;
 }
 h1
 {
   font-weight: bold;
+}
+
+img {
+  float: left;
+  width: 400px;
+  height: auto;
+}
+p{
+  width: auto;
 }
